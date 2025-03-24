@@ -78,11 +78,5 @@ The output is saved to `transcription.txt`.
 - To change the speech recognition service, modify:
 ```python
 text = r.recognize_google(audio_data, language=language)
-```
-➡️ Replace `recognize_google()` with:
-- `recognize_sphinx()` → Offline recognition  
-- `recognize_bing()` → Microsoft Bing API  
-- `recognize_wit()` → Wit.ai  
 
----
 
