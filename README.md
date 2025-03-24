@@ -92,5 +92,3 @@ text = r.recognize_google(audio_data, language=language)
 - **Unsupported format:** Check that the file format is one of the supported types.
 
 ---
-
-✅ Your **Speech-to-Text Application** is ready! 🎉 Let me know if you want additional features or modifications! 🚀
