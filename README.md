@@ -72,11 +72,6 @@ Hello, this is a sample transcription of the audio file.
 ```
 The output is saved to `transcription.txt`.
 
----
 
-## 💡 **Customization**
-- To change the speech recognition service, modify:
-```python
-text = r.recognize_google(audio_data, language=language)
 
 
