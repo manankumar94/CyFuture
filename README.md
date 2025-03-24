@@ -86,9 +86,3 @@ text = r.recognize_google(audio_data, language=language)
 
 ---
 
-## 📌 **Troubleshooting**
-- **File not found:** Ensure the file path is correct.  
-- **FFmpeg missing:** Install FFmpeg if the program raises an `FFmpeg` error.  
-- **Unsupported format:** Check that the file format is one of the supported types.
-
----
